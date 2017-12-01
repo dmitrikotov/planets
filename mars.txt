@@ -1,2 +1,3 @@
 Mars is the fourth planet from the sun.
 Mars has two moons.
+Mars really is a planet.
